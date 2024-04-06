@@ -1,0 +1,709 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Final Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Final Project.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assest\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assest\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assest\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\css\\style.css",
+      "PackagePath": "staticwebassets\\assest\\css\\style.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assest\\css\\style.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\css\\style.scss",
+      "PackagePath": "staticwebassets\\assest\\css\\style.scss"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assest\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assest\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assest\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\assest\\images\\about-img.png"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\client1.jpg",
+      "PackagePath": "staticwebassets\\assest\\images\\client1.jpg"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\client2.jpg",
+      "PackagePath": "staticwebassets\\assest\\images\\client2.jpg"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\f1.png",
+      "PackagePath": "staticwebassets\\assest\\images\\f1.png"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\f2.png",
+      "PackagePath": "staticwebassets\\assest\\images\\f2.png"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\f3.png",
+      "PackagePath": "staticwebassets\\assest\\images\\f3.png"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\f4.png",
+      "PackagePath": "staticwebassets\\assest\\images\\f4.png"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\f5.png",
+      "PackagePath": "staticwebassets\\assest\\images\\f5.png"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\f6.png",
+      "PackagePath": "staticwebassets\\assest\\images\\f6.png"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\f7.png",
+      "PackagePath": "staticwebassets\\assest\\images\\f7.png"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\f8.png",
+      "PackagePath": "staticwebassets\\assest\\images\\f8.png"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\f9.png",
+      "PackagePath": "staticwebassets\\assest\\images\\f9.png"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assest\\images\\favicon.png"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\ff1.png",
+      "PackagePath": "staticwebassets\\assest\\images\\ff1.png"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\ff2.png",
+      "PackagePath": "staticwebassets\\assest\\images\\ff2.png"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\ff3.png",
+      "PackagePath": "staticwebassets\\assest\\images\\ff3.png"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\assest\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\o1.jpg",
+      "PackagePath": "staticwebassets\\assest\\images\\o1.jpg"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\images\\o2.jpg",
+      "PackagePath": "staticwebassets\\assest\\images\\o2.jpg"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assest\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assest\\js\\custom.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\assest\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\animate.css\\animate.compat.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\animate.css\\animate.compat.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\animate.css\\animate.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\animate.css\\animate.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assest\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assest\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assest\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assest\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assest\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assest\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assest\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\assest\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assest\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Final Project\\Final Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Final Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Final Project.props",
+      "PackagePath": "build\\Final Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Final Project.props",
+      "PackagePath": "buildMultiTargeting\\Final Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Final Project.props",
+      "PackagePath": "buildTransitive\\Final Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
